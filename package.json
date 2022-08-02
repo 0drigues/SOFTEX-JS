@@ -1,0 +1,25 @@
+{
+  "name": "javascript-softex",
+  "version": "1.0.0",
+  "description": "javascript package/node.js test for the use of javascript as a back-end programming language",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0drigues/SOFTEX-JS.git"
+  },
+  "keywords": [
+    "\"\""
+  ],
+  "author": "0drigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0drigues/SOFTEX-JS/issues"
+  },
+  "homepage": "https://github.com/0drigues/SOFTEX-JS#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
