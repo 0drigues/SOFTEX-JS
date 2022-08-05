@@ -1,19 +1,16 @@
 {
-  "name": "api_music_app.js",
+  "name": "app.js",
   "version": "1.0.0",
-  "description": "music app api",
+  "description": "test app",
+  "main": "index.js",
   "scripts": {
-    "generate": "node ./scr/app.js",
-    "test": "test_command"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "music",
-    "api"
-  ],
   "author": "0drigues",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
-    "require": "^0.4.4"
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3"
   }
 }
